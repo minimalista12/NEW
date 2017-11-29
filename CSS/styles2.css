@@ -1,0 +1,112 @@
+
+body {
+	background-image: url(../IMG/fondo.jpg);
+	background-repeat: repeat;
+}
+
+.header {
+	display: inline;
+	background-color: #FEF2E6;
+	
+}
+
+.header h1 {
+	margin-left: -10px;
+	font-size: 90px;
+	font-weight: 200;
+	display: inline;
+	font-family: 'Grand Hotel', cursive;
+}
+
+#pusheen {
+	margin-top: -10px;
+	width: 220px;
+	height: 190px;
+}
+
+#pusheen2 {
+	margin-top: -10px;
+	width: 220px;
+	height: 190px;
+}
+
+.wrapper {
+	background: transparent;
+}
+
+#pie2 {
+	display: none;
+}
+
+#piedelimon h3 {
+	font-size: 19px;
+	text-decoration: underline;
+}
+
+#piedelimon li {
+	font-size: 14px;
+}
+
+#breadfairy h3 {
+	font-size: 19px;
+	text-decoration: underline;
+}
+
+#breadfairy li {
+	font-size: 14px;
+}
+
+#manzana h3 {
+	font-size: 19px;
+	text-decoration: underline;
+}
+
+#manzana li {
+	font-size: 14px;
+}
+
+
+#panini h3 {
+	font-size: 19px;
+	text-decoration: underline;
+}
+
+#panini li {
+	font-size: 14px;
+}
+
+
+#pizza h3 {
+	font-size: 19px;
+	text-decoration: underline;
+}
+
+#pizza li {
+	font-size: 14px;
+}
+
+.panel a {
+	font-family: 'Grand Hotel', cursive;
+	font-size: 27px;
+}
+
+.panel img {
+	width: 370px;
+	height: 350px;
+	margin-bottom: 1px;
+}
+
+.footer {
+	background: #FEF2E6;
+}
+
+.footer h3 {
+	background-color: #FEF2E6;
+	text-align: center;
+	font-size: 15px;
+	font-weight: 200;
+	margin-bottom: -10px;
+	margin-top:-14px;
+}
+
+
